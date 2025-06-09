@@ -3,7 +3,7 @@
 
 ##  Project Overview
 
-This SQL Capstone Project focuses on analyzing Amazon sales data using structured query language (SQL). The dataset includes transactional information such as invoice ID, customer details, product categories, prices, payment methods, dates, and ratings. The project involved **data wrangling**, **feature engineering**, and **exploratory data analysis** to extract valuable business insights.
+This SQL Project focuses on analyzing Amazon sales data using structured query language (SQL). The dataset includes transactional information such as invoice ID, customer details, product categories, prices, payment methods, dates, and ratings. The project involved **data wrangling**, **feature engineering**, and **exploratory data analysis** to extract valuable business insights.
 
 
 ##  Dataset Summary
