@@ -1,12 +1,10 @@
-.
 
-# 🛒 Amazon Sales Analysis – SQL Project
+#  Amazon Sales Analysis – SQL Project
 
 ##  Project Overview
 
 This SQL Capstone Project focuses on analyzing Amazon sales data using structured query language (SQL). The dataset includes transactional information such as invoice ID, customer details, product categories, prices, payment methods, dates, and ratings. The project involved **data wrangling**, **feature engineering**, and **exploratory data analysis** to extract valuable business insights.
 
----
 
 ##  Dataset Summary
 
@@ -21,9 +19,8 @@ This SQL Capstone Project focuses on analyzing Amazon sales data using structure
   - `dayname` (Mon–Sun)
   - `monthname` (Jan–Dec)
 
----
 
-## ⚙️ Project Structure
+## Project Structure
 
 ### 1. **Data Wrangling**
 - Created database and tables
@@ -43,8 +40,6 @@ Executed 28 business queries to uncover insights like:
 - Time and day-based customer preferences
 - Performance comparison among branches
 
----
-
 ##  Skills Demonstrated
 
 - ✅ SQL Basics & Advanced Queries  
@@ -53,18 +48,11 @@ Executed 28 business queries to uncover insights like:
 - ✅ Case Statements & Conditional Logic  
 - ✅ Business Intelligence Thinking
 
----
-
-## 🛠️ Tools Used
+##  Tools Used
 
 - **MySQL** for database creation and query execution  
 - **SQL Joins, Window Functions, Aggregates**  
 - **MySQL Workbench** 
-
----
-
-
----
 
 ## Conclusion
 
@@ -74,6 +62,6 @@ This capstone project simulates a real-world data analysis scenario. It reflects
 
 If you liked this project or have suggestions:
 
-- [LinkedIn](www.linkedin.com/in/manda-saikumar-94a6202a4)
-- 📧 Email: saikumarmanda645@gmail.com
+- LinkedIn :www.linkedin.com/in/manda-saikumar-94a6202a4
+-  Email: saikumarmanda645@gmail.com
 
